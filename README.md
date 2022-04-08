@@ -40,14 +40,6 @@
 </p>
 <br/>
 
-
-<h3 align="center">📖 About</h3>
-<p align="center"> 
-  Three things I can't live without: git status, Ctrl+Shift+F, and syntax Highlighting. 
-</p>
-
-
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amasianalbandian)](https://github.com/amasianalbandian)
 
 <!--
