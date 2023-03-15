@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/MlMI0TW.png" height="100" align="left"/> 
-<div><h2 border-bottom="none" >Hello, my name is Amasia!</h2>
+<div><h3 border-bottom="none">Hello, my name is Amasia!</h3>
 📍 Toronto, ON
   </div>
 </img>
